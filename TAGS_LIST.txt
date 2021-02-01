@@ -1,0 +1,25 @@
+Group SWU gnodeb:RFR-1526:MMW SWU
+Group SWU gnodeb:RFR-1570:RIUD SWU
+Group Sanity gnodeb:RFR-1558:Sanity RIUD
+Group Sanity gnodeb:RFR-1495:Sanity MMW
+Group Sanity gnodeb:RFR-2542:CPU_utilsation
+Group Sanity gnodeb:RFR-2512:Airspan OS Tests
+Group Sanity gnodeb:RFR-2149:Transition of logs to RAM
+Group Sanity gnodeb:RFR-1528:Serial commands
+Group Sanity gnodeb:RFR-2129:Power off-on
+Group Sanity gnodeb:RFR-1827:MMW Reboot Test
+Group Recovery gnodeb:RFR-2909:MMW Reboots Cycle Test
+Group Recovery gnodeb:RFR-3689:MMW Reboots cycle with power off on recovery test
+Group Recovery gnodeb:RFR-3690:MMW Watchdog cycle with power off on recovery test
+Group Recovery gnodeb:RFR-3691:MMW Watchdog cycle test
+Group Recovery gnodeb:RFR-2519:MMW Powercycle test
+Group Recovery gnodeb:RFR-1566:RIUD Reboot Test
+Group Recovery gnodeb:RFR-2613:RIUD Reboots Cycle Test
+Group Recovery gnodeb:RFR-3646:RIUD Reboots cycle with power off on recovery test
+Group Recovery gnodeb:RFR-3647:RIUD Watchdog cycle with power off on recovery test
+Group Recovery gnodeb:RFR-3670:RIUD Watchdog cycle test
+Group Recovery gnodeb:RFR-2273:RIUD Powercycle test
+Group Recovery gnodeb:RFR-3857:RIUD Reboots with i2cset Cycle Test
+Group Recovery gnodeb:RFR-3895:RIUD Reboots with poweroff command Cycle Test
+Group Recovery gnodeb:RFR-3955:RIUD Reboots source reboot.txt with power off on recovery test
+Group Recovery gnodeb:RFR-4030:Power off on without login check
